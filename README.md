@@ -32,7 +32,8 @@ statistics which covers confirmed,active,recovered and deaths. It gives proper s
 This Project is made by Niketan Patil and Sweta Dey (https://github.com/Dey-sys-lang?tab=repositories) 
 
 # Support us by contributing and forking this project.
- We have really worked hard for this project so kindly fork and give it a star. Only for personal reference and not to be distributed.
+ We have Invested Major amount of time developing this project so kindly fork and give it a star. Only for personal reference and not to be distributed.
+ Forks Appreciated. 
 
 
 
