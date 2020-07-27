@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fa90147-e90e-4c53-abd5-5744424487d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/homepage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pages/Prevention.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/pages/Prevention.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eH2Yqcclifng8hzsd8m7jZp5wM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\trail\COVID-19 TRACKER\assets" />
+      <recent name="C:\AndroidProjects\sliverappbar\assets\icons" />
+      <recent name="C:\AndroidProjects\sliverappbar\lib\pages" />
+      <recent name="C:\AndroidProjects\sliverappbar\lib" />
+      <recent name="C:\AndroidProjects\sliverappbar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AndroidProjects\sliverappbar\images" />
+      <recent name="C:\AndroidProjects\sliverappbar\assets" />
+      <recent name="C:\AndroidProjects\sliverappbar\fonts" />
+      <recent name="C:\AndroidProjects\sliverappbar\lib\pages" />
+      <recent name="C:\AndroidProjects\sliverappbar\lib\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="sample.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/sample.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.sample.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa90147-e90e-4c53-abd5-5744424487d6" name="Default Changelist" comment="" />
+      <created>1593964247993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593964247993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595311877311">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595311877311" />
+    <state x="375" y="85" key="#main.dart" timestamp="1595249359947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="85" key="#main.dart/0.0.1366.728@0.0.1366.728" timestamp="1595249359947" />
+    <state x="375" y="85" key="#sample.dart" timestamp="1595154593774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="85" key="#sample.dart/0.0.1366.728@0.0.1366.728" timestamp="1595154593774" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1595750802903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595750802903" />
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1595758845577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595758845577" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1595758845576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595758845576" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1595758845576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595758845576" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1595758845576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595758845576" />
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1595753389106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1595753389106" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1595749453131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595749453131" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1594387870606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594387870606" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/homepage.dart</url>
+          <line>71</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/pages/countryPage.dart</url>
+          <line>118</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

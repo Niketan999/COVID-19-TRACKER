@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "covidassessment-qgyemc",
+  "private_key_id": "b9634ea0154aacdc508ebb6d0a5a7a514f7fd81f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjnfEPt0RDO3lu\nkylbdGylDqfhmMO4Eoq6GVTmWul7JAGHdatl2MjaUq5gA7IfbRR1u7Y4oQhGrb6Q\nDsgfGnCKwz32QdebVt+PnfhFzVbVIgJ60vvogZ8HXo+AVx2r+SvttbkKwK28yxfm\n+EbOXyv9kQSY+iYp0R9y4+T6MWrEdxLTF4/o5KM4w3qyXvEcNn/Obk6WSz2gBb6e\nE5OQAD9h7B8UbmwXrHwJx4SEgmTtE1MNVaf4kovyCJWaGcO2Dn6ba8kBEjwRks3b\nQGVJZ5UpNW5hWlpPxpN7+4QremjOdNp7aImKkuv7FzKoD6uYAcFZGLgGBe3hjSS9\nueayKWvJAgMBAAECggEABTbbtt3JP+EKPxuP7vsTzL7b3wco31FNbEX4SUP75Ujw\nirHfY03mtq7+NPo2B7zv+GJ8d3+jjjryCqAhZX+tjwA6AyeEUO1Z4b20r6SsleVZ\njobBeT9pl+RKqp3+8q7v8ATMYGVZlYxG1+ZdeOIlQoHNS9PZ2/YLymNTc4fTnPyH\nlxCevoDkOCVQ5H7s8bvcE9HcV09LKlu5LcQRp7c0X8WLEfyvPgqI+wCyESGwwBCw\nb4/J0wq5tM636Cqv6fq7qveNIK28IfvcuBE6CdMmUuJUPXanJZ0spLqLCOxOvZ7z\nn29cdBynK5AtqlTx6zydz2wH3zBr6dLGDAUqeE6ogQKBgQD9qUqiwGlqGJ+s1llS\n07yZSKOYo4O3rVsUIUpShRlhKTI7ie7sNo8wAEJADHuViOA6VIWKljwlnNArA7iO\nRDb3JiTNsXNOAExwCcVCTEAIDAZnNOXjZElLtRn2pv7WinrRsZn5tLu+2ARFItIJ\nUrVzT2Y+PnqTQTAj/sA1viTjTQKBgQDlty2ypn9OUeVVDZ2zFlJCbZbYwt6+9ZWZ\n3TLYRPUtD3m+yjLmLagmQvuJRdKnE+z8fMDfhB6SEHy6WeqEOQHDarmNO5SPiVGA\nKSKQgfQk3d49UbPKxI6hB5aRBNJ6Srxv08GfKGiT3Sj/vEUYAkBNzdEPvQk7xzy9\np7EyEO00bQKBgBY5dO6ZiSLgkWzlQuI85vNPJ/ZBrVK0f5xd5lMgkj6vC1WoGiTc\nCuObwjI2ZcWOPocdzK19yDtLZ/m807izRVWWI/dZqs6UvB283WmXoKyT0SPNwK6R\npNJbRbEUpJNLgsNImkMEkMaByq38BQcIFhnKRR0DAF5SgdNFiLWsuTKpAoGBAJcr\nTK9cUjrAOiMWqsjHz6pXZAWRd/RCuQhgQK2B87aLkJq1hXlkYluLiOx1PoMk4bfm\ngSaWU2fb4bjgoywQN9DZ0vHWW5V50GB+sXhXjMsWFsJTmfW+E/50d+lHOxuvQwJ0\nX97VQLzNtcVVqEJ8eMS6xPGOfR0RqC9Gw50m9nKhAoGAXlKDn/+N/SkPGTPDHV1B\nx2atdiwuHHiVlFXUZywrLwOKqBmFXaYiLLrBo4maMJ01HjZ2nd3OOmlFdPOn7fSE\n8P0nC0hocClrqsq8DsgFwfLqEvGTen4rmyGLtRVz2t1Y3GBJJKmmnH7TpTerTODV\n7boXvcUruzuM+eIGwHIo2Vg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "covidassessment-qgyemc@appspot.gserviceaccount.com",
+  "client_id": "106145648110252572395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covidassessment-qgyemc%40appspot.gserviceaccount.com"
+}
